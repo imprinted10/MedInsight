@@ -7,7 +7,7 @@ It acts as a centralized **operating layer for healthcare systems**, combining a
 
 ---
 
-## **🚀 Mission**
+## ** Mission**
 
 Hospitals frequently face **Access Block** — where patients remain in emergency care due to unavailable beds in specialized wards.
 
@@ -21,7 +21,7 @@ Instead of reacting to bottlenecks, administrators can:
 
 ---
 
-## **🧩 Core Modules**
+## ** Core Modules**
 
 ### **1. Med Insight (Advanced Analytics)**
 
@@ -74,7 +74,7 @@ Instead of reacting to bottlenecks, administrators can:
 
 ---
 
-## **⚙️ Technical Stack**
+## ** Technical Stack**
 
 ### **Core Engine**
 
@@ -97,7 +97,7 @@ Instead of reacting to bottlenecks, administrators can:
 
 ---
 
-## **🏗️ Architecture Highlights**
+## ** Architecture Highlights**
 
 * **Unified Design System**
   Consistent UI across all modules
@@ -110,7 +110,7 @@ Instead of reacting to bottlenecks, administrators can:
 
 ---
 
-## **📂 Project Structure**
+## ** Project Structure**
 
 ```
 med_insight_suite/
@@ -124,7 +124,7 @@ med_insight_suite/
 
 ---
 
-## **🛠️ Installation & Setup**
+## ** Installation & Setup**
 
 ### 1. Clone the repository
 
@@ -147,7 +147,7 @@ streamlit run app.py
 
 ---
 
-## **🎯 Key Differentiators**
+## ** Key Differentiators**
 
 * Moves hospitals from **reactive → predictive operations**
 * Combines **analytics + orchestration + simulation**
@@ -156,13 +156,13 @@ streamlit run app.py
 
 ---
 
-## **📌 Context**
+## ** Context**
 
 Developed as part of the **Infosys Springboard Internship 2026**, focused on building resilient, data-first healthcare systems.
 
 ---
 
-## **🔮 Future Scope **
+## ** Future Scope **
 
 * Integration with **live hospital APIs / HL7 / FHIR standards**
 * Machine learning models for **patient risk scoring**
